@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a project group <br> ➡️Laravel, Vue.js
+🔭 I’m currently working on a project group <br> ➡️ Laravel, Vue.js
 
 
 ## 🌐 Socials:
